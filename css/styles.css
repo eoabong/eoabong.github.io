@@ -3,7 +3,7 @@
   font: white;
   margin-bottom: 5px;
   text-align: center;
-  color: FFF;
+  text-shadow: #FFF;
 }
 h1{
   color: blue;
@@ -44,8 +44,7 @@ body{
 }
 #menu ul {
     height: auto;
-
-    margin: 0px;
+  margin: 0px;
 }
 #menu li {
 display: inline;
@@ -57,4 +56,7 @@ padding: 100px;
 }
 #menu a:hover {
     color: #F90;
+}
+aln2{
+  float: right;
 }
