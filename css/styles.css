@@ -72,9 +72,11 @@ aln2{
   border-radius: 8px;
 }
 #footer ul {
+    list-style-type: none;
     height: auto;
     margin: 0px;
 }
 #footer li {
-padding: 0px;
+  text-decoration: none;
+  padding: 0px;
 }
