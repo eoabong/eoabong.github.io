@@ -7,6 +7,7 @@ This is my first website showcasing my tallents as a programmer, it has details 
 * Download the file
 * Set it up in a web server
 * access the URL via website
+* Alternatively you can access the website via github link (https://eoabong.github.io)
 
 ## Known Bugs
 No known bugs
@@ -15,4 +16,4 @@ bootstrap html and css
 ## Support and contact details
 Erick Oduor eoabong@gmail.com
 ### License
-Copyright (c) {2017} **Erick Oduor**
+Copyright (c) 2017 **Erick Oduor**
